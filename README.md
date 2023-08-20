@@ -15,6 +15,7 @@ I am currently studying at Matrusri Engineering College (OU affiliated)🏫</li>
 <li>
 2020 - 2024 Batch👩‍🎓
 </li>
+<li>A Passionate Learner</li> 
 </ul>
 
 ## **⚒️Languages & Tools**
