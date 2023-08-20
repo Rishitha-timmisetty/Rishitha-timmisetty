@@ -11,11 +11,11 @@
 
 <ul>
 <li>
-I am currently studying at Matrusri Engineering College (OU affiliated)r</li>
+I am currently studying at Matrusri Engineering College (OU affiliated)</li>
 <li>
-2020 - 2024⚒️
+2020 - 2024 Batch⚒️
 </li>
-<li>Passionate Learner
+<li>A Passionate Learner
 </ul>
 
 ## **Languages & Tools**
