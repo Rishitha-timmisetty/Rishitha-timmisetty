@@ -7,18 +7,17 @@
 <!-- </br> -->
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Rishitha-timmisetty.Rishitha-timmisetty) 
-## **About Me**
+## **🙋‍♀️About Me**
 
 <ul>
 <li>
-I am currently studying at Matrusri Engineering College (OU affiliated)</li>
+I am currently studying at Matrusri Engineering College (OU affiliated)🏫</li>
 <li>
-2020 - 2024 Batch⚒️
+2020 - 2024 Batch👩‍🎓
 </li>
-<li>A Passionate Learner
 </ul>
 
-## **Languages & Tools**
+## **⚒️Languages & Tools**
 
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40">
