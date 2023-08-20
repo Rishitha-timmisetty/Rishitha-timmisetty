@@ -42,6 +42,7 @@ I am currently studying at Matrusri Engineering College (OU affiliated)🏫</li>
 <p align="center">
     <a href="mailto:rishithatimmisetty@gmail.com"><img src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
     <a href="https://www.linkedin.com/in/rishitha-timmisetty-404a3719b/" target="blank"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn" width="42" height="42"/></a>
+  <a href="https://www.instagram.com/letuscode_2gether/"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="Instagram" width="42" height="42"/></a>
     <a href="https://www.instagram.com/rishitha_timmisetty/"><img src="https://img.icons8.com/doodle/48/000000/instagram-new.png" alt="Instagram" width="42" height="42"/></a>
     <a href="https://www.youtube.com/@rishithat4736"><img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" alt="YouTube" width="42" height="42"/></a>
 </p>
