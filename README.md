@@ -2,8 +2,11 @@
 <!-- <p align="center">
   Computer Science Engineering Graduand
 </p>
+<!-- </br> -->
+<!-- <img align="right" alt="Coding" width="200" src="https://cdn.anisearch.com/images/character/cover/full/5/5532.webp"> -->
+<!-- </br> -->
 
-### Glad to see you here! 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Rishitha-timmisetty.Rishitha-timmisetty) 
 ## **About Me**
 
 <ul>
@@ -16,6 +19,7 @@ I am currently studying at Matrusri Engineering College (OU affiliated)r</li>
 </ul>
 
 ## **Languages & Tools**
+
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40">
     <code>C</code>,
@@ -34,6 +38,7 @@ I am currently studying at Matrusri Engineering College (OU affiliated)r</li>
 </p>
 
 ## ☎️ Let's Connect
+
 <p align="center">
     <a href="mailto:rishithatimmisetty@gmail.com"><img src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
     <a href="https://www.linkedin.com/in/rishitha-timmisetty-404a3719b/" target="blank"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn" width="42" height="42"/></a>
