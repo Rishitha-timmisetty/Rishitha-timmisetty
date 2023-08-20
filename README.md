@@ -1,12 +1,21 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rishitha Timmisetty
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rishitha Timmisetty</h1>
+<!-- <p align="center">
+  Computer Science Engineering Graduand
+</p>
 
-Glad to see you here! 
-### About Me
-- I am currently studying at Matrusri Engineering College (OU affiliated)
-- 2020 - 2024⚒️
-- Passionate Learner
+### Glad to see you here! 
+## **About Me**
 
-### Languages & Tools
+<ul>
+<li>
+I am currently studying at Matrusri Engineering College (OU affiliated)r</li>
+<li>
+2020 - 2024⚒️
+</li>
+<li>Passionate Learner
+</ul>
+
+## **Languages & Tools**
 <p align="center">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40">
     <code>C</code>,
@@ -24,7 +33,7 @@ Glad to see you here!
     <code>IDLE</code>
 </p>
 
-### Let's Connect
+## ☎️ Let's Connect
 <p align="center">
     <a href="mailto:rishithatimmisetty@gmail.com"><img src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
     <a href="https://www.linkedin.com/in/rishitha-timmisetty-404a3719b/" target="blank"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn" width="42" height="42"/></a>
