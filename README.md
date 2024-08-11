@@ -11,7 +11,7 @@
 
 <ul>
 <li>
-I am currently studying at Matrusri Engineering College (OU affiliated)🏫</li>
+I am a Computer Science Engineering Graduate🏫</li>
 <li>
 2020 - 2024 Batch👩‍🎓
 </li>
