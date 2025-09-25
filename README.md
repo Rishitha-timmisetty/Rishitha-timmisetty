@@ -43,7 +43,7 @@
         <img src="https://img.icons8.com/doodle/50/000000/microphone.png" alt="Singing" width="42" height="42">
         <br><code>Singing</code>
     </a>
-    <a href="https://en.wikipedia.org/wiki/Performing_arts" target="_blank">
+    <a href="https://en.wikipedia.org/wiki/Acting" target="_blank">
         <img src="https://img.icons8.com/doodle/50/000000/theater-mask.png" alt="Acting" width="42" height="42">
         <br><code>Acting</code>
     </a>
@@ -60,6 +60,7 @@
         <br><code>Chatting</code>
     </a>
 </p>
+
 
 
 
