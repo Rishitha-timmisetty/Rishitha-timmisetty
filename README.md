@@ -1,8 +1,8 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rishitha Timmisetty</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Rishitha-timmisetty.Rishitha-timmisetty"/>
-</p>
+</p> -->
 
 ### Glad to see you here! 👋
 
@@ -36,14 +36,26 @@
     <code>IDLE</code>
 </p>
 
-## **🎯 Hobbies & Interests**
-<p align="left">
-  <img src="https://img.shields.io/badge/Singing-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="Singing"/>
-  <img src="https://img.shields.io/badge/Acting-FFA500?style=for-the-badge&logo=film&logoColor=white" alt="Acting"/>
-  <img src="https://img.shields.io/badge/Badminton-32CD32?style=for-the-badge&logo=badminton&logoColor=white" alt="Badminton"/>
-  <img src="https://img.shields.io/badge/Baking-FF4500?style=for-the-badge&logo=chef&logoColor=white" alt="Baking"/>
-  <img src="https://img.shields.io/badge/Chatting-1E90FF?style=for-the-badge&logo=facebook-messenger&logoColor=white" alt="Chatting"/>
+## 🎨 Hobbies & Interests
+
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/Singing" target="_blank">
+        <img src="https://img.icons8.com/doodle/50/000000/microphone.png" alt="Singing" width="42" height="42"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Acting" target="_blank">
+        <img src="https://img.icons8.com/doodle/50/000000/theatre-mask.png" alt="Acting" width="42" height="42"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Badminton" target="_blank">
+        <img src="https://img.icons8.com/doodle/50/000000/badminton.png" alt="Badminton" width="42" height="42"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Baking" target="_blank">
+        <img src="https://img.icons8.com/doodle/50/000000/cupcake.png" alt="Baking" width="42" height="42"/>
+    </a>
+    <a href="https://www.linkedin.com/in/rishitha-timmisetty-404a3719b/" target="_blank">
+        <img src="https://img.icons8.com/doodle/50/000000/chat.png" alt="Chatting" width="42" height="42"/>
+    </a>
 </p>
+
 
 ## ☎️ Let's Connect
 
