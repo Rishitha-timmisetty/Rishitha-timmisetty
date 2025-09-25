@@ -1,7 +1,7 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rishitha Timmisetty</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Rishitha-timmisetty.Rishitha-timmisetty" alt="Visitors Badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Rishitha-timmisetty.Rishitha-timmisetty"/>
 </p>
 
 ### Glad to see you here! 👋
@@ -10,11 +10,12 @@
 <ul>
   <li>I am a Computer Science Engineering Graduate 🏫</li>
   <li>2020 - 2024 Batch 👩‍🎓</li>
-  <li>A Passionate Learner & Multi-talented Enthusiast 🎶🏸🎭🍰</li>
+  <li>A passionate learner who loves exploring different interests 🎶🏸🎭🍰</li>
   <li>Exploring <b>AI, ML, and problem-solving</b> with <b>DSA (Java) and SQL</b></li>
   <li>Always learning, building, and improving—one project at a time ✨</li>
   <li>Love connecting with people—feel free to reach out! 💬</li>
 </ul>
+
 
 ## **⚒️Languages & Tools**
 
