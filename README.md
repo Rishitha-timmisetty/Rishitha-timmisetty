@@ -43,8 +43,8 @@
     <img src="https://img.icons8.com/doodle/48/000000/microphone.png" alt="Singing" width="28" style="vertical-align:middle;"/>
     <img src="https://img.shields.io/badge/-Singing-0D1117?style=flat-square" alt="Singing" style="vertical-align:middle;"/>
   </a>&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Performing_arts" target="_blank" style="text-decoration:none; color:inherit;">
-    <img src="https://img.icons8.com/doodle/48/000000/theater-mask.png" alt="Acting" width="28" style="vertical-align:middle;"/>
+  <a href="https://en.wikipedia.org/wiki/Acting" target="_blank" style="text-decoration:none; color:inherit;">
+    <img src="https://img.icons8.com/doodle/48/000000/camera.png" alt="Acting" width="28" style="vertical-align:middle;"/>
     <img src="https://img.shields.io/badge/-Acting-0D1117?style=flat-square" alt="Acting" style="vertical-align:middle;"/>
   </a>&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/Badminton" target="_blank" style="text-decoration:none; color:inherit;">
@@ -60,6 +60,7 @@
     <img src="https://img.shields.io/badge/-Chatting-0D1117?style=flat-square" alt="Chatting" style="vertical-align:middle;"/>
   </a>
 </p>
+
 
 
 
