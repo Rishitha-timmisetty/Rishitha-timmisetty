@@ -40,21 +40,27 @@
 
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/Singing" target="_blank">
-        <img src="https://img.icons8.com/doodle/50/000000/microphone.png" alt="Singing" width="42" height="42"/>
+        <img src="https://img.icons8.com/doodle/50/000000/microphone.png" alt="Singing" width="42" height="42">
+        <br><code>Singing</code>
     </a>
-    <a href="https://en.wikipedia.org/wiki/Acting" target="_blank">
-        <img src="https://img.icons8.com/doodle/50/000000/theatre-mask.png" alt="Acting" width="42" height="42"/>
+    <a href="https://en.wikipedia.org/wiki/Performing_arts" target="_blank">
+        <img src="https://img.icons8.com/doodle/50/000000/theater-mask.png" alt="Acting" width="42" height="42">
+        <br><code>Acting</code>
     </a>
     <a href="https://en.wikipedia.org/wiki/Badminton" target="_blank">
-        <img src="https://img.icons8.com/doodle/50/000000/badminton.png" alt="Badminton" width="42" height="42"/>
+        <img src="https://img.icons8.com/doodle/50/000000/badminton.png" alt="Badminton" width="42" height="42">
+        <br><code>Badminton</code>
     </a>
     <a href="https://en.wikipedia.org/wiki/Baking" target="_blank">
-        <img src="https://img.icons8.com/doodle/50/000000/cupcake.png" alt="Baking" width="42" height="42"/>
+        <img src="https://img.icons8.com/doodle/50/000000/cupcake.png" alt="Baking" width="42" height="42">
+        <br><code>Baking</code>
     </a>
     <a href="https://www.linkedin.com/in/rishitha-timmisetty-404a3719b/" target="_blank">
-        <img src="https://img.icons8.com/doodle/50/000000/chat.png" alt="Chatting" width="42" height="42"/>
+        <img src="https://img.icons8.com/doodle/50/000000/chat.png" alt="Chatting" width="42" height="42">
+        <br><code>Chatting</code>
     </a>
 </p>
+
 
 
 ## ☎️ Let's Connect
