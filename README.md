@@ -1,21 +1,19 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rishitha Timmisetty</h1>
-<!-- <p align="center">
-  Computer Science Engineering Graduand
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Rishitha-timmisetty.Rishitha-timmisetty" alt="Visitors Badge"/>
 </p>
-<!-- </br> -->
-<!-- <img align="right" alt="Coding" width="200" src="https://cdn.anisearch.com/images/character/cover/full/5/5532.webp"> -->
-<!-- </br> -->
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Rishitha-timmisetty.Rishitha-timmisetty) 
-## **🙋‍♀️About Me**
+### Glad to see you here! 👋
 
+## **🙋‍♀️ About Me**
 <ul>
-<li>
-I am a Computer Science Engineering Graduate🏫</li>
-<li>
-2020 - 2024 Batch👩‍🎓
-</li>
-<li>A Passionate Learner</li> 
+  <li>I am a Computer Science Engineering Graduate 🏫</li>
+  <li>2020 - 2024 Batch 👩‍🎓</li>
+  <li>A Passionate Learner & Multi-talented Enthusiast 🎶🏸🎭🍰</li>
+  <li>Exploring <b>AI, ML, and problem-solving</b> with <b>DSA (Java) and SQL</b></li>
+  <li>Always learning, building, and improving—one project at a time ✨</li>
+  <li>Love connecting with people—feel free to reach out! 💬</li>
 </ul>
 
 ## **⚒️Languages & Tools**
@@ -35,6 +33,15 @@ I am a Computer Science Engineering Graduate🏫</li>
     <code>Visual Code Studio</code>,
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="IDLE" width="40" height="40">
     <code>IDLE</code>
+</p>
+
+## **🎯 Hobbies & Interests**
+<p align="left">
+  <img src="https://img.shields.io/badge/Singing-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" alt="Singing"/>
+  <img src="https://img.shields.io/badge/Acting-FFA500?style=for-the-badge&logo=film&logoColor=white" alt="Acting"/>
+  <img src="https://img.shields.io/badge/Badminton-32CD32?style=for-the-badge&logo=badminton&logoColor=white" alt="Badminton"/>
+  <img src="https://img.shields.io/badge/Baking-FF4500?style=for-the-badge&logo=chef&logoColor=white" alt="Baking"/>
+  <img src="https://img.shields.io/badge/Chatting-1E90FF?style=for-the-badge&logo=facebook-messenger&logoColor=white" alt="Chatting"/>
 </p>
 
 ## ☎️ Let's Connect
